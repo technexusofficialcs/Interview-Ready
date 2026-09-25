@@ -1,0 +1,335 @@
+COLD EMAIL — INTERNSHIP & JOB OUTREACH
+=========================================
+
+1. WHAT IS A COLD EMAIL?
+------------------------
+A cold email means directly emailing a company, recruiter, or HR professional to express your interest in an internship or job opportunity.
+
+It is called “cold” because you are contacting someone without having an existing conversation or connection with them.
+
+Example:
+You find a company that works in web development and email their HR directly asking about internship opportunities.
+
+
+2. HOW TO FIND COMPANIES?
+-------------------------
+Search for companies related to your field using:
+
+• LinkedIn — Search companies, recruiters, HR professionals, and employees.
+• Internshala — Look for relevant internships and companies.
+• Google — Search for companies, startups, agencies, and organizations working in your field.
+• Company websites — Explore their careers, hiring, or contact pages.
+
+Search examples:
+• Web Development companies hiring interns
+• Software development startups India
+• React internship companies
+• Full Stack Development internship
+• Python developer internship
+
+Tip:
+Do not restrict yourself only to large companies. Startups and smaller companies can also provide valuable hands-on experience.
+
+
+3. HOW TO FIND COMPANY EMAILS?
+------------------------------
+Once you identify a company, look for a professional contact or HR email.
+
+Check:
+
+1. Company website
+2. Contact Us page
+3. About Us page
+4. Careers / Jobs page
+5. LinkedIn company page
+6. Google search
+
+Look specifically for addresses such as:
+
+• hr@company.com
+• careers@company.com
+• recruitment@company.com
+• jobs@company.com
+
+Important:
+Prefer an official company email address and verify it before sending.
+
+
+4. SUBJECT LINE TIPS
+--------------------
+Your subject line should immediately tell the recipient why you are contacting them.
+
+Simple formula:
+
+Application for [Role] Internship – [Your Name]
+
+Example:
+
+Application for Web Developer Internship – Anushka Chaturvedi
+
+Other examples:
+
+• Application for Full Stack Development Internship – Anushka Chaturvedi
+• Application for Python Development Internship – Anushka Chaturvedi
+• Internship Application – Computer Science Undergraduate
+
+Avoid:
+
+• Hi
+• Job
+• Internship
+• Please read
+• Urgent!!!
+
+Keep it clear, specific, and professional.
+
+
+5. ATTACH RESUME + PORTFOLIO
+----------------------------
+Always include your resume when applying through email.
+
+You can also add:
+
+• GitHub
+• Portfolio website
+• LinkedIn
+• Relevant project/demo links
+
+Recommended structure:
+
+Resume: Attached PDF
+GitHub: Your GitHub profile
+LinkedIn: Your LinkedIn profile
+Portfolio: If available
+
+FILE NAMING
+
+Instead of:
+resume_final_final2.pdf
+
+Use:
+Anushka_Chaturvedi_Resume.pdf
+
+This looks much more professional.
+
+
+6. THE “100 EMAILS” STRATEGY
+----------------------------
+The basic idea is to increase your outreach volume instead of depending on a single application.
+
+However, do not simply send the exact same email to 100 companies.
+
+Better approach:
+
+Create one strong base email → personalize a few important parts for each company.
+
+Personalize:
+
+• Company name
+• Internship/job role
+• One relevant skill
+• One relevant project
+• Why you are interested in that company/role
+
+Example:
+
+Instead of:
+“I am interested in any internship opportunity at your company.”
+
+Write:
+“I am particularly interested in the Full Stack Development internship because of the opportunity to work with React, Node.js, and database-driven applications.”
+
+This makes your outreach feel intentional rather than mass-generated.
+
+
+7. WRITING AN EMAIL WITH CHATGPT
+--------------------------------
+You can use ChatGPT to create a professional email based on a specific internship/job description.
+
+STEP 1 — FIND THE INTERNSHIP/JOB
+
+Go to platforms such as:
+
+• Internshala
+• LinkedIn
+• Company career pages
+• Other job portals
+
+Find your desired internship/job role.
+
+STEP 2 — COPY THE JOB DESCRIPTION
+
+Copy the complete job listing, starting from:
+
+Role / Internship Title
+
+and include the relevant information until the end of the listing.
+
+This gives ChatGPT enough context about:
+
+• Role
+• Responsibilities
+• Required skills
+• Eligibility
+• Duration
+• Company
+• Requirements
+• Other relevant details
+
+STEP 3 — PASTE IT INTO CHATGPT
+
+Then ask:
+
+“Draft a short professional email applying for this internship. Highlight my relevant skills and projects, keep it concise, and do not add any experience or skills that are not present in my resume.”
+
+
+8. EXAMPLE JOB DESCRIPTION
+--------------------------
+Full Stack Development — Internship (WFH)
+
+Company: Nexaora
+Work Mode: Work from home
+Duration: 3 months
+Start Date: Immediately
+Stipend: ₹20,000–₹25,000/month
+Openings: 4
+
+RESPONSIBILITIES
+
+1. Collaborate with the development team to design and implement new features.
+2. Write clean, efficient, and maintainable code.
+3. Participate in code reviews.
+4. Assist with troubleshooting and debugging.
+5. Work on front-end and back-end development.
+6. Research and experiment with new technologies.
+7. Communicate with team members to coordinate tasks and deadlines.
+
+REQUIRED SKILLS
+
+• AngularJS
+• Bubble.io
+• CSS
+• HTML
+• JavaScript
+• MongoDB
+• MySQL
+• Node.js
+• PHP
+• Python
+• React
+
+
+9. EXAMPLE PROFESSIONAL EMAIL
+-----------------------------
+TO:
+hr@company.com
+
+SUBJECT:
+Application for Full Stack Development Internship – Anushka Chaturvedi
+
+EMAIL:
+
+Dear Hiring Team,
+
+I am writing to apply for the Full Stack Development Internship at Nexaora. I am a Computer Science undergraduate with hands-on experience in React, Node.js, Express.js, JavaScript, Python, MongoDB, MySQL, HTML, and CSS.
+
+I have worked on multiple full-stack projects involving frontend development, REST APIs, backend systems, and database integration. I am keen to contribute to your development team while gaining further experience in building and maintaining real-world web applications.
+
+Please find my resume attached for your consideration. I look forward to the opportunity to discuss my application.
+
+Best regards,
+Anushka Chaturvedi
+Computer Science Undergraduate
++91 XXXXX XXXXX | anushka@example.com
+GitHub | LinkedIn
+
+Attachment: Anushka_Chaturvedi_Resume.pdf
+
+
+10. SENDING THE EMAIL
+---------------------
+Gmail workflow:
+
+1. Open Gmail.
+2. Click Compose.
+3. Enter the verified company/HR email.
+4. Add a professional subject.
+5. Paste your email.
+6. Attach your resume.
+7. Add relevant links — GitHub | LinkedIn | Portfolio.
+8. Proofread everything.
+9. SEND.
+
+Example:
+
+To:
+hr@company.com
+
+Subject:
+Application for Full Stack Development Internship – Anushka Chaturvedi
+
+
+11. FINAL COLD EMAIL CHECKLIST
+-----------------------------
+Before clicking Send, check:
+
+☐ Correct company name
+☐ Correct internship/job title
+☐ Verified recipient email
+☐ Clear subject line
+☐ Professional greeting
+☐ Relevant skills mentioned
+☐ No false claims
+☐ Resume attached
+☐ Resume has a professional filename
+☐ GitHub/LinkedIn/portfolio added where relevant
+☐ No spelling or grammatical errors
+☐ No placeholder text such as [Company Name]
+☐ Email is concise and easy to scan
+
+
+12. SIMPLE CHATGPT PROMPT — FOR BEGINNERS
+------------------------------------------
+I want to apply for this internship. Read the job description below and draft a short, professional email to the hiring team. Mention only the skills and experience that are relevant to the role and that I actually have. Keep the email concise and natural. Do not invent any experience, skills, projects, achievements, or qualifications. Include a professional subject line.
+
+Job Description:
+[Paste the complete job description here]
+
+My Skills/Experience:
+[Paste your resume or relevant details here]
+
+
+13. ADVANCED CHATGPT PROMPT
+---------------------------
+Act as a professional internship outreach assistant. Analyze the job description I provide and draft a concise cold email for the hiring team.
+
+Your tasks:
+
+1. Identify the most relevant requirements from the job description.
+2. Match them only with skills, projects, and experience that I actually possess.
+3. Write a clear professional subject line.
+4. Write a short email with a strong opening.
+5. Mention 2–4 highly relevant skills rather than listing everything I know.
+6. Briefly connect my experience/projects to the role.
+7. Mention that my resume is attached.
+8. Include GitHub, LinkedIn, or portfolio only where relevant.
+9. Keep the email concise and easy for a recruiter to scan.
+10. Do not invent or exaggerate any experience, skills, achievements, metrics, or qualifications.
+
+Job Description:
+[Paste job description]
+
+My Resume/Profile:
+[Paste resume or relevant information]
+
+Output:
+• Subject line
+• Final email
+• 3–5 bullet points explaining why the selected skills/projects are relevant
+
+
+KEY TAKEAWAY
+------------
+Cold email = Research → Find the right contact → Personalize → Attach resume → Send professionally → Follow up appropriately.
+
+The goal is not simply to send more emails. It is to send more relevant, well-targeted emails without sacrificing professionalism or accuracy.

@@ -1,0 +1,1334 @@
+For a job, work experience is required, and for work experience, a job is needed.
+This is like the corporate world's version of the "chicken or the egg" dilemma.
+But don't worry, we will let you know,
+what to write in your resume when you have no experience
+
+Let's start from the beginning.
+Here, you will include your name, number, linkedin, email and if you have a portfolio, that too
+
+Now, the next section is our education. Here, you will write where are you doing your Degree from and mention your cgpa if it is good.
+
+Below, write where you completed your schooling, along with the year
+
+The next section will be your skill.
+Here, you will mention technical skills and soft skills.
+
+If you don't have skills,
+what are you waiting for? Develop Them!!
+
+make a simple resume out of it using claude.
+
+Resume should be simplistic and blank!
+
+LEFT SWIPE!
+5 tips ats will not reject
+1] resume should be no more than one page
+2] do not make fancy resume, keep it simple and ensure that it has bullet points. use arial/calibri
+3] Don't make new fancy fields (for eg: career journey) make sure to only include standard fields like contact, work experience
+4] always upload or maintain a pdf of your resume for better ats compatibility
+5] Use exact keywords that help describe the JD well
+
+proper JD → ATS → recruiter → resume tailoring workflow,
+attach your resume + job description
+claude prompt:
+I want you to act as a senior technical recruiter, ATS (Applicant Tracking System) specialist, and professional resume writer with 15+ years of experience hiring candidates for competitive internships and entry-level technology roles.
+
+Your job is to perform a brutally honest, highly detailed resume screening exactly like a real ATS + recruiter would.
+
+I will provide:
+1. The FULL JOB DESCRIPTION (JD)
+2. My CURRENT RESUME
+
+Your goal is NOT to give me generic resume advice.
+
+Your goal is to determine:
+- Why my resume may be rejected, skipped, or not shortlisted for THIS SPECIFIC ROLE
+- What the ATS is likely to extract from my resume
+- What a human recruiter is likely to notice within the first 10–20 seconds
+- Which JD requirements my resume clearly satisfies
+- Which requirements are weakly demonstrated
+- Which requirements are completely missing
+- Which keywords/skills/phrases from the JD should be incorporated naturally
+- Which parts of my resume should be removed, shortened, rewritten, or repositioned
+- How to rewrite the resume so it is highly relevant to this specific JD while remaining truthful
+
+IMPORTANT RULE:
+NEVER invent experience, projects, technologies, achievements, numbers, certifications, job responsibilities, clients, or results.
+
+If something is missing from my resume but important in the JD:
+- Flag it as MISSING.
+- Do NOT fabricate it.
+- Tell me what kind of real evidence would satisfy the requirement.
+- If I may have the skill based on information elsewhere in my resume, explain how it can be demonstrated better.
+
+==================================================
+PHASE 1 — UNDERSTAND THE JOB DESCRIPTION
+==================================================
+
+First, break down the JD into:
+
+A. MUST-HAVE REQUIREMENTS
+B. NICE-TO-HAVE REQUIREMENTS
+C. TECHNICAL SKILLS
+D. TOOLS / SOFTWARE
+E. RESPONSIBILITIES
+F. DOMAIN-SPECIFIC KEYWORDS
+G. SOFT SKILLS
+H. EXPERIENCE REQUIREMENTS
+I. EDUCATION REQUIREMENTS
+J. IMPLIED REQUIREMENTS
+
+Separate:
+- Explicit requirements stated directly in the JD
+- Keywords that are likely to matter for ATS matching
+- Requirements that a human recruiter would care about even if they are not repeated as keywords
+
+Create a "JD Keyword Map" containing:
+
+Keyword / Requirement | Importance | Where it appears in JD | Present in Resume? | Evidence in Resume | Recommended Action
+
+Do not assume that every keyword has equal importance.
+
+==================================================
+PHASE 2 — ATS COMPATIBILITY AUDIT
+==================================================
+
+Analyze my resume as if it were being parsed by a modern ATS.
+
+Check specifically for:
+
+1. Single-column vs multi-column layout
+2. Tables
+3. Text boxes
+4. Icons
+5. Graphics
+6. Images
+7. Logos
+8. Headers/footers
+9. Unusual fonts
+10. Decorative section headings
+11. Contact information parsing
+12. Dates and employment formatting
+13. Bullet formatting
+14. Inconsistent punctuation
+15. Inconsistent spacing
+16. Skill parsing
+17. Hyperlinks
+18. URLs
+19. LinkedIn/GitHub links
+20. Section ordering
+21. Standard section names
+22. Keyword extraction
+23. Duplicate keywords
+24. Keyword stuffing
+25. Missing terminology
+26. Acronyms vs full terms
+27. File-format concerns
+
+Tell me whether the resume is likely to be:
+
+- ATS-friendly
+- Partially ATS-friendly
+- High-risk for ATS parsing
+
+Explain WHY.
+
+IMPORTANT:
+Do not blindly claim that every two-column resume is unreadable by every ATS. Explain the actual risk: reading order, extraction order, text placement, etc.
+
+==================================================
+PHASE 3 — RECRUITER 10-SECOND TEST
+==================================================
+
+Pretend you are a recruiter opening my resume for the first time.
+
+You have only 10–20 seconds.
+
+Tell me:
+
+1. What role do you think I am targeting?
+2. What are my strongest immediately visible qualifications?
+3. What is unclear?
+4. What information is buried?
+5. What would make you continue reading?
+6. What could make you move to the next candidate?
+7. Is the resume obviously tailored to this JD or does it look generic?
+
+Then identify the TOP 5 reasons this resume could be skipped for this specific role.
+
+Do NOT use generic reasons unless they actually apply to my resume.
+
+==================================================
+PHASE 4 — JD vs RESUME MATCH ANALYSIS
+==================================================
+
+Create a detailed comparison:
+
+JD Requirement | Resume Evidence | Match Level | Problem | Fix
+
+Use these match levels:
+
+- Strong evidence
+- Partial evidence
+- Weak evidence
+- Missing
+
+Do NOT give me an arbitrary overall score unless you can justify it using actual evidence.
+
+Pay special attention to:
+
+- Required technologies
+- Required tools
+- Programming languages
+- Frameworks
+- Databases
+- Cloud/deployment
+- Git/GitHub
+- APIs
+- Testing
+- Development methodologies
+- Communication
+- Collaboration
+- Problem-solving
+- Relevant projects
+- Relevant coursework
+- Internship experience
+- Certifications
+- Domain knowledge
+
+==================================================
+PHASE 5 — KEYWORD GAP ANALYSIS
+==================================================
+
+Identify three categories:
+
+A. CRITICAL MISSING KEYWORDS
+These are important terms from the JD that are genuinely absent.
+
+B. PRESENT BUT WEAKLY DEMONSTRATED
+The concept/skill exists but my resume does not communicate it strongly.
+
+C. ALREADY PRESENT
+Do not unnecessarily repeat these.
+
+For every missing keyword, tell me whether it can legitimately be added based on information already present in my resume.
+
+NEVER recommend adding a keyword just because it is in the JD if I have no evidence for it.
+
+Also identify:
+- Exact JD terminology
+- Synonyms
+- Acronyms
+- Related technical terms
+
+Example:
+"REST API" → RESTful APIs / API development / web services
+
+But only recommend alternatives when they accurately describe my experience.
+
+==================================================
+PHASE 6 — EXPERIENCE ANALYSIS
+==================================================
+
+Analyze every experience bullet individually.
+
+For each bullet:
+
+1. What does the bullet currently say?
+2. What is weak about it?
+3. Does it describe a responsibility or an achievement?
+4. Does it demonstrate technical skill?
+5. Does it demonstrate impact?
+6. Does it contain relevant JD keywords?
+7. Is it too vague?
+8. Is it unnecessarily long?
+9. Can it be quantified?
+10. How should it be rewritten?
+
+Use this structure:
+
+CURRENT BULLET:
+...
+
+PROBLEM:
+...
+
+WHAT THE RECRUITER NEEDS TO SEE:
+...
+
+REWRITTEN BULLET:
+...
+
+Do not invent metrics.
+
+If a metric would make the bullet stronger but is not provided, write:
+
+[ADD REAL METRIC IF AVAILABLE]
+
+Examples of legitimate metrics:
+- number of users
+- number of team members
+- project duration
+- response-time improvement
+- number of modules
+- number of test cases
+- number of records
+- performance improvement
+- percentage improvement
+- number of participants
+- number of applications/users
+- deployment usage
+
+Only use numbers that I can verify.
+
+==================================================
+PHASE 7 — PROJECT ANALYSIS
+==================================================
+
+For every project, evaluate:
+
+- Relevance to JD
+- Technical depth
+- Technologies
+- Architecture
+- Features
+- Problem solved
+- Your individual contribution
+- Complexity
+- Deployment
+- Git/GitHub
+- Database
+- APIs
+- Testing
+- Results
+- Impact
+
+Rewrite project bullets using this general structure where truthful:
+
+ACTION + WHAT I BUILT/DID + TECHNOLOGY + TECHNICAL DETAIL + RESULT/IMPACT
+
+Avoid generic bullets such as:
+
+"Made a website using React."
+
+Prefer something like:
+
+"Developed a React-based task management application with REST APIs and PostgreSQL, implementing CRUD operations, authentication, and structured client-server communication."
+
+BUT ONLY USE FEATURES THAT ACTUALLY EXIST IN MY PROJECT.
+
+Do not invent features.
+
+Prioritize projects based on relevance to the JD.
+
+Tell me which projects should:
+- Stay
+- Be shortened
+- Be expanded
+- Be removed
+
+==================================================
+PHASE 8 — BULLET POINT QUALITY
+==================================================
+
+Rewrite weak bullets using strong action verbs.
+
+Avoid repetitive verbs like:
+- Worked on
+- Helped
+- Responsible for
+- Did
+- Made
+- Created
+
+Use appropriate technical verbs such as:
+- Developed
+- Implemented
+- Engineered
+- Integrated
+- Automated
+- Designed
+- Optimized
+- Configured
+- Deployed
+- Tested
+- Debugged
+- Refactored
+- Built
+- Architected
+
+But do NOT use impressive-sounding verbs if they exaggerate my actual contribution.
+
+Every bullet should ideally communicate:
+
+ACTION → TECHNICAL WORK → CONTEXT → RESULT
+
+Do not force metrics into every bullet.
+
+==================================================
+PHASE 9 — SKILLS SECTION
+==================================================
+
+Rebuild my Skills section specifically for this JD.
+
+Use standard ATS-readable categories such as:
+
+Languages:
+...
+
+Frameworks/Libraries:
+...
+
+Databases:
+...
+
+Tools:
+...
+
+Cloud/Deployment:
+...
+
+Other:
+...
+
+Only include technologies that I genuinely know or have used.
+
+Prioritize skills according to the JD.
+
+Do NOT create a giant keyword dump.
+
+Do NOT include:
+"MS Office, Communication, Leadership, Teamwork, Hardworking"
+
+unless the JD specifically makes them relevant and they are better demonstrated elsewhere.
+
+==================================================
+PHASE 10 — SECTION STRUCTURE
+==================================================
+
+Recommend the best resume structure for me based on my actual profile.
+
+For an internship/entry-level technical candidate, evaluate whether I should use:
+
+1. Header
+2. Professional Summary
+3. Education
+4. Technical Skills
+5. Experience
+6. Projects
+7. Certifications
+8. Leadership/Positions
+9. Achievements
+
+Do NOT automatically include every section.
+
+Tell me which sections matter most for THIS JD.
+
+Use standard ATS-readable section names:
+- Summary
+- Education
+- Experience
+- Projects
+- Skills
+- Certifications
+- Achievements
+- Leadership
+
+Avoid overly creative section names.
+
+==================================================
+PHASE 11 — PROFESSIONAL SUMMARY
+==================================================
+
+Determine whether I actually need a Summary.
+
+If yes, write a highly targeted 2–3 line summary.
+
+The summary should communicate:
+
+WHO I AM + WHAT I SPECIALIZE IN + RELEVANT TECHNOLOGIES + WHAT TYPE OF ROLE I AM TARGETING
+
+Do NOT write generic statements such as:
+
+"Motivated and hardworking computer science student seeking opportunities to grow."
+
+Instead make it evidence-based and JD-specific.
+
+==================================================
+PHASE 12 — RED FLAGS & HIDDEN REJECTION REASONS
+==================================================
+
+Look for subtle issues that may cause rejection even if the resume technically matches.
+
+Examples:
+
+- Generic resume used for every role
+- No evidence of a required skill
+- Skill listed but never demonstrated
+- Project listed but no technical depth
+- Too many irrelevant technologies
+- Too many unrelated projects
+- Bullets describe duties rather than outcomes
+- No GitHub when Git/GitHub matters
+- No deployment evidence when deployment matters
+- No portfolio when the role requires demonstrable work
+- Missing exact terminology from JD
+- Overuse of buzzwords
+- Inconsistent dates
+- Unclear role titles
+- Excessive design
+- Excessive whitespace
+- Resume too long
+- Resume too dense
+- Weak first half of page 1
+
+IMPORTANT:
+Only flag something if it actually applies to my resume/JD.
+
+==================================================
+PHASE 13 — FINAL ATS-FRIENDLY RESUME
+==================================================
+
+After completing the diagnosis, create a complete rewritten resume tailored specifically to the JD.
+
+Requirements:
+
+- ATS-friendly
+- Single-column
+- Clean
+- Professional
+- No graphics
+- No icons
+- No tables
+- No text boxes
+- Standard section headings
+- Standard date formatting
+- Easy parsing
+- 1 page if realistically possible for an internship/entry-level candidate
+- Strong keyword alignment
+- No keyword stuffing
+- No fabricated experience
+- No fabricated metrics
+- No exaggerated claims
+
+Use plain text/Markdown so I can easily copy it into Word/Google Docs.
+
+For links, use simple text such as:
+GitHub: github.com/...
+LinkedIn: linkedin.com/in/...
+
+==================================================
+PHASE 14 — BEFORE/AFTER COMPARISON
+==================================================
+
+Show me the most important changes in this format:
+
+BEFORE:
+...
+
+AFTER:
+...
+
+WHY:
+...
+
+Prioritize the 10 highest-impact changes.
+
+==================================================
+PHASE 15 — FINAL CHECK
+==================================================
+
+Before giving me the final resume, perform a second ATS audit on your rewritten version.
+
+Check:
+
+[ ] JD keywords are naturally represented
+[ ] No important requirement was falsely claimed
+[ ] No fabricated information
+[ ] Standard section headings
+[ ] Single-column structure
+[ ] No tables
+[ ] No graphics
+[ ] No icons
+[ ] No text boxes
+[ ] Dates are consistent
+[ ] Contact details are parseable
+[ ] Skills are categorized
+[ ] Projects demonstrate technical ability
+[ ] Experience bullets demonstrate contribution
+[ ] Bullets are concise
+[ ] Relevant technologies are visible
+[ ] Irrelevant information is minimized
+[ ] Resume is tailored to THIS JD
+[ ] No keyword stuffing
+[ ] No generic filler
+[ ] Resume is readable by a human recruiter
+
+Then give me:
+
+1. FINAL ATS-FRIENDLY RESUME
+2. TOP CHANGES MADE
+3. REMAINING GAPS
+4. INFORMATION I SHOULD PROVIDE YOU TO MAKE IT STRONGER
+5. FINAL ATS RISK CHECK
+6. FINAL HUMAN-RECRUITER CHECK
+
+IMPORTANT FINAL RULE:
+
+If information is missing, ASK ME for it instead of inventing it.
+
+If a bullet could become much stronger with a real number, explicitly ask me for that number.
+
+If I have a relevant skill but haven't demonstrated it properly, tell me where/how I can demonstrate it.
+
+The objective is NOT to make my resume "sound impressive."
+
+The objective is to make my resume:
+RELEVANT + TRUTHFUL + ATS-PARSABLE + TECHNICALLY CREDIBLE + RECRUITER-FRIENDLY.
+
+
+
+
+==================================================
+ADDITIONAL NOTES FROM THE ATS / RESUME VIDEO
+==================================================
+
+IMPORTANT:
+Everything above is my original workshop material. DO NOT REMOVE OR REPLACE
+ANY OF IT. The following section is ADDITIONAL material to be used alongside
+my original notes.
+
+
+A. ATS COMPATIBILITY ANALYSIS — EXTRA CHECKS
+=============================================
+
+When asking Claude to audit a resume, explicitly ask it to:
+
+- Determine whether my resume is ATS-friendly.
+- Identify formatting issues that may break ATS parsing.
+- Detect problematic layouts, tables, columns, graphics, icons, text boxes,
+  headers/footers, or unusual fonts.
+- Check whether important keywords are missing.
+- Identify if section titles are non-standard or difficult for ATS systems.
+- Tell me whether the ATS would likely rank this resume HIGH, MEDIUM, or LOW
+  for this specific role.
+
+NOTE:
+The HIGH / MEDIUM / LOW assessment should be based on the actual JD and
+resume evidence, not an arbitrary score.
+
+
+B. EXAMPLE — TOP REASONS A RESUME MAY BE SKIPPED
+=================================================
+
+A resume can be skipped because of specific gaps such as:
+
+1. No portfolio or showreel link — especially important for creative roles.
+2. A required tool is not listed despite being explicitly named in the JD.
+3. No mention of required content formats when those exact terms appear in
+   the job title/JD.
+4. Zero quantified results across many bullet points.
+5. No evidence of a stated language requirement.
+
+IMPORTANT:
+These are examples from a specific creative/video-editing resume review.
+They should NOT automatically be treated as universal rejection reasons.
+Use only the reasons that actually apply to the resume + JD being analyzed.
+
+
+C. MISSING-KEYWORD EXAMPLE FROM THE VIDEO
+==========================================
+
+The video specifically demonstrated that important missing terminology can
+include:
+
+- "Subtitles"
+- "Captions"
+- "B-roll"
+- "AI tools"
+- "Transcription"
+- "Sound effects"
+- "Music"
+
+Optional/context-dependent term:
+- "YouTube"
+
+The point is not to stuff these words into a resume. The point is to check
+whether the JD uses important terminology that the resume genuinely fails to
+mention despite relevant experience.
+
+If the candidate actually has the skill/experience, the terminology can be
+used naturally in the appropriate bullet or Skills section.
+If the candidate does NOT have the skill, do not add it merely for ATS
+matching.
+
+
+D. CRITICAL ATS ISSUE — MULTI-COLUMN SKILLS
+============================================
+
+Example shown in the video:
+
+Key Skills appearing in a 2-column format:
+
+- Capcut              • Adobe Illustrator
+- Canva               • Photography
+- Videography
+- Adobe Lightroom
+
+The video's stated concern:
+ATS systems may read text in an unexpected order when content is arranged in
+multiple columns, potentially scrambling the extracted information.
+
+Workshop takeaway:
+For maximum ATS safety, prefer a simple single-column Skills section.
+
+Example:
+
+SKILLS
+Languages: Python, Java, C++
+Frameworks: React, Flask
+Databases: MySQL, PostgreSQL
+Tools: Git, GitHub, VS Code
+
+
+E. CRITICAL ATS ISSUE — CONFUSING WORK EXPERIENCE FORMATTING
+==============================================================
+
+Keep Work Experience formatting extremely clear.
+
+The video flags confusing work-experience formatting as an ATS issue.
+
+Make sure:
+- Job title is clearly identifiable.
+- Company/organization is clearly identifiable.
+- Dates are clearly identifiable.
+- Each role's bullet points are visually and logically attached to that role.
+- Avoid layouts where dates, titles, companies, and bullets can be extracted
+  in the wrong order.
+
+Use a consistent structure such as:
+
+JOB TITLE — COMPANY
+Location | Month Year – Month Year
+• Bullet point
+• Bullet point
+
+
+F. RED FLAGS & HIDDEN REJECTION REASONS
+========================================
+
+The video highlights several hidden rejection triggers.
+
+1. NO PORTFOLIO / SHOWREEL WHEN THE ROLE REQUIRES DEMONSTRABLE WORK
+
+For creative roles, especially video editing roles, absence of a portfolio or
+showreel can be a major problem because the recruiter cannot quickly inspect
+actual work.
+
+Workshop takeaway:
+If a JD explicitly requires a portfolio/showreel, provide one when you
+actually have relevant work to show.
+
+2. TOOL MISMATCH
+
+If the JD explicitly asks for a professional tool and the resume only lists a
+different or more basic tool, this can create a mismatch.
+
+Example shown in the video:
+- JD: Premiere Pro / professional desktop editing workflow
+- Resume: only CapCut
+
+The video argues that this can make a recruiter question whether the candidate
+knows the required tool or has the expected production workflow.
+
+IMPORTANT:
+Do not falsely claim proficiency in a tool you do not know.
+If you genuinely use the requested tool, make that experience visible.
+
+3. TASK-BASED BULLETS WITH NO IMPACT
+
+If all bullets simply describe tasks and do not communicate growth, impact,
+results, or outcomes, the resume can look like a list of duties rather than
+evidence of contribution.
+
+Example problem:
+- "Edited videos."
+- "Managed social media."
+- "Worked on projects."
+
+Better approach:
+Explain what was done, how it was done, and the result — when the result is
+known and can be verified.
+
+4. LANGUAGE REQUIREMENTS
+
+If a JD explicitly requires a language, the resume should provide evidence of
+that ability when the candidate genuinely has it.
+
+Do not claim language proficiency that you do not have.
+
+
+G. BULLET-POINT REWRITING — GOOGLE XYZ FORMULA EXAMPLE
+========================================================
+
+The video also shows a separate prompt for rewriting experience bullets.
+
+Prompt concept:
+
+"Act as an elite resume writer, former Fortune 500 recruiter, and career
+strategist who specializes in writing high-impact resume bullet points using
+Google's XYZ Formula. I will provide my current experience section, and your
+task is to completely rewrite it into powerful, results-driven bullet points."
+
+XYZ Formula:
+
+"Accomplished X, as measured by Y, by doing Z."
+
+General structure:
+
+X = What was accomplished
+Y = Measurable result / evidence
+Z = How it was accomplished
+
+Example shown in the video:
+
+Weak:
+"Managed a team."
+
+Stronger example:
+"Reduced customer churn by 18% over 6 months by building and optimizing an
+onboarding sequence for 3,000+ users."
+
+Other instructions shown in the video:
+- Transform value/responsibility-based statements into achievement-focused,
+  metric-driven accomplishments.
+- Use strong action verbs.
+- Communicate measurable outcomes where real evidence exists.
+- Make bullets sound concise, modern, strategic, and recruiter-friendly.
+- Prioritize impact, scale, efficiency, leadership, revenue growth, customer
+  results, operational improvements, or performance outcomes where relevant.
+- Optimize for both recruiters and ATS systems.
+- Explain briefly why each rewritten bullet is stronger than the original.
+
+CRITICAL WORKSHOP CORRECTION:
+The video prompt suggests that when metrics are missing, Claude should infer
+"realistic and professional estimates" and label them as assumptions.
+
+DO NOT DO THIS FOR A REAL RESUME.
+
+A resume must not contain invented or inferred achievements, numbers, or
+results. Instead use:
+
+[ADD REAL METRIC IF AVAILABLE]
+
+or ask the candidate for the real number.
+
+This keeps the resume truthful and verifiable while still using the XYZ
+framework effectively.
+
+
+H. PRACTICAL BULLET-POINT FORMULA FOR THE WORKSHOP
+===================================================
+
+Use this safe version:
+
+ACTION + TECHNICAL WORK + CONTEXT + REAL RESULT/IMPACT
+
+or, when a metric is available:
+
+ACCOMPLISHED X + MEASURED BY Y + BY DOING Z
+
+Do not force a metric into every bullet.
+Do not invent a metric just to make a bullet sound impressive.
+
+
+I. FINAL WORKSHOP TAKEAWAY
+==========================
+
+The goal of ATS optimization is NOT to trick the ATS.
+
+The goal is to make the candidate's real experience:
+
+- Easy for the ATS to parse
+- Easy for a recruiter to understand
+- Clearly relevant to the JD
+- Specific enough to demonstrate technical ability
+- Quantified when genuine metrics exist
+- Honest and verifiable
+
+FINAL FORMULA:
+
+RELEVANT
++ TRUTHFUL
++ ATS-PARSABLE
++ TECHNICALLY CREDIBLE
++ RECRUITER-FRIENDLY
+= STRONG RESUME
+
+
+
+================================================================================
+PREMIUM PROFESSIONAL ADDENDUM — WORKSHOP DELIVERY VERSION
+================================================================================
+
+PURPOSE
+-------
+This section is an enhancement layer added to the original workshop notes.
+ALL ORIGINAL NOTES ABOVE HAVE BEEN RETAINED.
+Nothing from the original material has been removed or replaced.
+
+The objective of this addendum is to make the workshop material easier to teach,
+easier for beginners to follow, and more practical to use immediately with AI.
+
+The professional standard throughout this workshop is:
+
+RELEVANCE + CLARITY + EVIDENCE + TRUTHFULNESS + ATS PARSABILITY
+
+AI should be used as an editor, analyst, and strategist — NOT as a source of
+invented experience.
+
+
+================================================================================
+1. THE RESUME WORKFLOW — FROM BEGINNER TO PROFESSIONAL
+================================================================================
+
+A strong resume is not created by simply asking AI to "make my resume better."
+Use a structured workflow:
+
+STEP 1 — COLLECT
+- Current resume, even if it is incomplete.
+- Full job description.
+- Projects, internships, certifications, achievements, coursework, and links.
+- Real numbers wherever available: users, features, performance, time saved,
+  team size, rankings, grades, deployments, etc.
+
+STEP 2 — DIAGNOSE
+Ask AI to compare the resume directly against the JD.
+Identify:
+- Must-have requirements
+- Nice-to-have requirements
+- Technical keywords
+- Tools and technologies
+- Missing evidence
+- Weakly demonstrated requirements
+- Irrelevant content
+- ATS formatting risks
+
+STEP 3 — REWRITE
+Rewrite only from information that the candidate can verify.
+Use action verbs, technical specificity, context, and genuine outcomes.
+
+STEP 4 — VALIDATE
+Perform a second ATS + recruiter audit after rewriting.
+Check parsing, keyword coverage, readability, consistency, and truthfulness.
+
+STEP 5 — FORMAT
+Place the approved content into a clean, single-column document.
+Keep formatting simple enough that the text remains machine-readable.
+
+STEP 6 — TAILOR
+For every important application, compare the resume against THAT JD.
+Do not send one generic resume to every employer.
+
+
+================================================================================
+2. BEGINNER RESUME PROMPT — SIMPLE VERSION
+================================================================================
+
+Use this when a student is creating their first resume or does not yet need a
+full ATS diagnostic.
+
+BEGINNER PROMPT
+---------------
+
+I am a student / recent graduate creating my resume for internships or
+entry-level roles.
+
+I will provide:
+1. My current resume or my raw information.
+2. The job description, if I have one.
+
+Please help me create a clean, professional, ATS-friendly resume.
+
+Rules:
+- Do not invent experience, projects, skills, certifications, achievements,
+  numbers, companies, responsibilities, or results.
+- If important information is missing, ask me for it.
+- Use standard resume section headings.
+- Keep the structure simple and single-column.
+- Avoid tables, graphics, icons, text boxes, and decorative elements.
+- Use concise bullet points beginning with strong action verbs.
+- Prioritize relevant technical skills and projects.
+- For projects, clearly show what I built, which technologies I used, and what
+  I actually implemented.
+- For experience, show my contribution rather than simply listing duties.
+- Use numbers only when I provide real, verifiable numbers.
+- Do not keyword-stuff the resume.
+- Tailor the resume to the job description when one is provided.
+
+First, tell me what information is missing from my resume.
+Then create the resume using only verified information.
+Finally, give me a short list of the most important improvements I should make.
+
+
+================================================================================
+3. BEGINNER RESUME PROMPT — WITH NO EXISTING RESUME
+================================================================================
+
+Use this when a student says: "I don't even have a resume yet."
+
+PROMPT
+------
+
+I am a college student looking for internships / entry-level opportunities,
+and I do not have a properly written resume yet.
+
+Act as a professional entry-level recruiter and resume writer.
+
+Interview me through a structured list of questions covering:
+- Education
+- Relevant coursework
+- Technical skills
+- Projects
+- Internships / volunteering / freelance work
+- Certifications
+- Competitions / hackathons
+- Leadership / responsibilities
+- Achievements
+- Extracurricular activities that demonstrate relevant skills
+- GitHub, LinkedIn, portfolio, or other professional links
+- Career target / roles I am applying for
+
+Do NOT write the final resume until you have collected enough information.
+If something is unknown, mark it as [NEEDS INFORMATION] rather than inventing it.
+
+After collecting the information:
+1. Identify my strongest evidence.
+2. Identify gaps.
+3. Organize the information into an ATS-friendly structure.
+4. Write concise, professional bullets.
+5. Create the final one-page resume if realistically possible.
+6. Give me a checklist of information I should still add or verify.
+
+Keep everything truthful, specific, readable, and suitable for an internship or
+entry-level recruiter.
+
+
+================================================================================
+4. JOB DESCRIPTION → RESUME MATCHING PROMPT
+================================================================================
+
+Use this before rewriting a resume for a specific role.
+
+PROMPT
+------
+
+Compare my resume against the job description below as a professional recruiter
+and ATS specialist.
+
+Create a structured gap analysis with these columns:
+
+JD REQUIREMENT | IMPORTANCE | PRESENT IN RESUME? | EVIDENCE | GAP | ACTION
+
+Then separate the findings into:
+A. Strong matches
+B. Partial matches
+C. Missing but potentially demonstrable requirements
+D. Missing requirements with no current evidence
+E. Keywords that should NOT be added because I do not actually have the skill
+
+Do not rewrite anything yet.
+First diagnose the actual gaps based only on evidence in my resume.
+
+
+================================================================================
+5. PROJECTS PROMPT — ESPECIALLY FOR STUDENTS
+================================================================================
+
+Student resumes often have limited professional experience. Projects therefore
+need to demonstrate technical ability clearly.
+
+PROMPT
+------
+
+Review my projects like a technical recruiter hiring an intern.
+
+For every project:
+1. Identify what the project actually demonstrates.
+2. Identify the technologies and technical concepts genuinely used.
+3. Rewrite the bullets using:
+   ACTION + WHAT I BUILT + TECHNOLOGY + TECHNICAL DETAIL + RESULT/IMPACT
+4. Keep only details relevant to the target role.
+5. Do not invent users, performance numbers, scale, or outcomes.
+6. If a real metric would make a bullet stronger, ask me for it.
+7. Explain what each project proves about my technical ability.
+
+Keep each project concise enough for a one-page internship resume.
+
+
+================================================================================
+6. EXPERIENCE BULLET PROMPT — PROFESSIONAL VERSION
+================================================================================
+
+PROMPT
+------
+
+Act as a senior resume writer and technical recruiter.
+Rewrite my experience bullets so they communicate contribution and evidence,
+not merely responsibilities.
+
+For each bullet:
+- Start with a strong action verb.
+- Explain the work performed.
+- Include relevant tools / technologies where genuine.
+- Add context when it improves understanding.
+- Include a real result or metric when I provide one.
+- If no metric exists, write a strong qualitative result rather than inventing
+  a number.
+- Keep the bullet concise.
+- Preserve the truth of the original experience.
+
+Use the Google XYZ structure when appropriate:
+ACCOMPLISHED X + MEASURED BY Y + BY DOING Z
+
+If Y is unavailable, DO NOT invent it. Instead use:
+[ADD REAL METRIC IF AVAILABLE]
+
+Return:
+1. Original bullet
+2. Revised bullet
+3. Why the revision is stronger
+
+
+================================================================================
+7. ATS-SAFE RESUME FORMAT — PROFESSIONAL STANDARD
+================================================================================
+
+RECOMMENDED STRUCTURE
+---------------------
+
+NAME
+City, Country | Phone | Professional Email
+LinkedIn | GitHub | Portfolio (if relevant)
+
+PROFESSIONAL SUMMARY / OBJECTIVE (optional and targeted)
+
+EDUCATION
+
+TECHNICAL SKILLS
+
+EXPERIENCE
+
+PROJECTS
+
+CERTIFICATIONS / ACHIEVEMENTS (only if relevant)
+
+
+FORMATTING STANDARD
+-------------------
+- Single-column layout
+- Standard section headings
+- Consistent date format
+- Clear hierarchy
+- Readable standard font
+- Consistent bullet style
+- Normal hyperlinks
+- No unnecessary graphics
+- No decorative icons
+- No text boxes
+- No tables when maximum ATS safety is the priority
+- No excessive color or design elements
+- No keyword stuffing
+- No unusual section names
+
+For internship / entry-level candidates, target one page when the content can be
+represented accurately without becoming cramped or incomplete.
+
+
+================================================================================
+8. FINAL ATS + RECRUITER AUDIT — 60-SECOND CHECK
+================================================================================
+
+Before submitting, ask:
+
+ATS CHECK
+[ ] Can every important section be extracted as normal text?
+[ ] Are section names standard?
+[ ] Are dates consistent?
+[ ] Are contact details readable?
+[ ] Are important JD keywords represented naturally where truthful?
+[ ] Are there unnecessary tables, columns, graphics, icons, or text boxes?
+
+RELEVANCE CHECK
+[ ] Does the resume clearly match THIS job?
+[ ] Are the most relevant projects easy to find?
+[ ] Are irrelevant skills minimized?
+[ ] Are required technologies visible when genuinely possessed?
+
+EVIDENCE CHECK
+[ ] Do bullets describe contribution rather than vague duties?
+[ ] Are technical details specific?
+[ ] Are metrics genuine and verifiable?
+[ ] Are claims supported by actual experience?
+
+HUMAN RECRUITER CHECK
+[ ] Can the value of the candidate be understood quickly?
+[ ] Is the resume easy to scan?
+[ ] Does it look intentional rather than overloaded?
+[ ] Would the recruiter understand what the candidate actually built or did?
+[ ] Is anything confusing, repetitive, or unnecessary?
+
+
+================================================================================
+9. MASTER BEGINNER-TO-PROFESSIONAL CLAUDE PROMPT
+================================================================================
+
+Use this when you want one prompt to handle the complete process.
+
+PROMPT
+------
+
+Act as a senior recruiter, ATS specialist, and professional resume writer who
+hires students and early-career candidates for internships and entry-level
+technology roles.
+
+I will provide:
+1. My current resume OR my raw career information.
+2. The complete job description.
+
+Your task is to take me from diagnosis to a final ATS-friendly resume.
+
+PHASE 1 — UNDERSTAND THE JD
+Extract:
+- Must-have requirements
+- Nice-to-have requirements
+- Technical skills
+- Tools / software
+- Responsibilities
+- Domain keywords
+- Soft skills
+- Experience requirements
+- Education requirements
+
+PHASE 2 — AUDIT MY RESUME
+Tell me:
+- What matches strongly
+- What matches partially
+- What is missing
+- What is irrelevant
+- What an ATS may extract
+- What a recruiter may notice quickly
+- What formatting may interfere with parsing
+
+PHASE 3 — KEYWORD GAP ANALYSIS
+Create:
+Keyword / Requirement | Importance | Present? | Evidence | Gap | Action
+
+Use only keywords that are genuinely relevant to the JD.
+Do not add skills that I do not possess.
+
+PHASE 4 — CONTENT REWRITE
+Rewrite weak bullets using:
+ACTION + TECHNICAL WORK + CONTEXT + REAL RESULT/IMPACT
+
+Use XYZ when a real metric exists:
+ACCOMPLISHED X + MEASURED BY Y + BY DOING Z
+
+Never invent metrics.
+If a real number would help, ask me for it.
+
+PHASE 5 — PROJECT OPTIMIZATION
+Make projects demonstrate technical ability through:
+- What I built
+- Technologies used
+- Important implementation details
+- My individual contribution
+- Genuine results
+
+PHASE 6 — FINAL RESUME
+Create a clean, professional, single-column resume with standard headings.
+Avoid tables, graphics, icons, text boxes, and unnecessary design elements.
+Keep it to one page when realistically possible for an internship candidate.
+
+PHASE 7 — FINAL AUDIT
+Audit the rewritten resume again for:
+- ATS parsing
+- JD relevance
+- Keyword alignment
+- Truthfulness
+- Readability
+- Technical credibility
+- Recruiter clarity
+
+PHASE 8 — REPORT
+Return:
+1. Final resume
+2. Top changes made
+3. Remaining gaps
+4. Information I should provide
+5. ATS risk check
+6. Human recruiter check
+
+NON-NEGOTIABLE RULES:
+- Never invent information.
+- Never infer a metric and present it as fact.
+- Never add a technology only because the JD contains it.
+- Never claim proficiency that I cannot support.
+- Never use keyword stuffing.
+- Never sacrifice readability for ATS matching.
+- If information is missing, ask me.
+
+The goal is not to make the resume sound impressive.
+The goal is to make the candidate's real evidence:
+RELEVANT + TRUTHFUL + ATS-PARSABLE + TECHNICALLY CREDIBLE + RECRUITER-FRIENDLY.
+
+
+================================================================================
+10. WORKSHOP DELIVERY NOTE — HOW TO EXPLAIN AI FOR RESUMES
+================================================================================
+
+Instead of saying:
+"AI will make your resume for you."
+
+Say:
+"AI can help you diagnose, structure, and communicate your real experience —
+but the evidence still has to come from you."
+
+Three rules students should remember:
+
+1. AI can identify gaps.
+2. AI can improve communication.
+3. AI cannot ethically manufacture experience.
+
+The strongest workflow is:
+
+YOUR EXPERIENCE
+      ↓
+AI ANALYSIS
+      ↓
+AI REWRITING
+      ↓
+YOUR VERIFICATION
+      ↓
+FINAL RESUME
+
+
+================================================================================
+FINAL PROFESSIONAL STANDARD
+================================================================================
+
+A polished profile is not the profile with the most keywords.
+It is the profile where every important claim is:
+
+CLEAR
+RELEVANT
+SUPPORTED
+CONSISTENT
+EASY TO FIND
+EASY TO UNDERSTAND
+
+Resume + Projects + Email + Interview should communicate the same professional
+story.
+
+That is the standard of a professional resume and candidate presentation.
+
